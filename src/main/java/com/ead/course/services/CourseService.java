@@ -15,5 +15,4 @@ public interface CourseService {
 
     List<CourseModel> findAll();
 
-    List<CourseModel> findOne();
 }
